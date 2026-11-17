@@ -4,7 +4,7 @@ Aplicación de escritorio desarrollada en **C# (.NET Windows Forms)** y **Micros
 
 ---
 
-## ✨ Características Principales
+## Características Principales
 
 - **Control de Acceso Basado en Roles (RBAC):**
   - **Administrador (`frmDashboard`):** Acceso total al panel de control, gestión de autobuses, choferes, rutas y administración completa de asignaciones.
@@ -14,7 +14,7 @@ Aplicación de escritorio desarrollada en **C# (.NET Windows Forms)** y **Micros
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - **Lenguaje & Framework:** C# / .NET (Windows Forms)
 - **Base de Datos:** Microsoft SQL Server (T-SQL, Procedimientos Almacenados)
